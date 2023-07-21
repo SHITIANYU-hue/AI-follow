@@ -10,10 +10,12 @@
   - *Affiliation*： University of Washington
   - *Keywords*： Diffusion models, Protein design 
   - *Summary*：The paper presents a novel deep learning framework, called RoseTTAFold Diffusion (RFdiffusion), for protein design. By fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks, the authors achieve remarkable performance in designing various types of proteins, including binders, symmetric architectures, enzyme active site scaffolds, and therapeutic and metal-binding proteins. RFdiffusion enables the generation of complex and functional proteins from simple molecular specifications, demonstrating its potential for advancing protein design using deep learning techniques.
-
+</details>
 
 <details>
   <summary><b><a href="https://arxiv.org/pdf/2307.04964.pdf">Emu: An Open Multimodal Generalist</a></b></summary>
-   - *Affiliation*： BAAI
+   - *Affiliation*： Fudan
   - *Keywords*：  Reinforcement Learning from Human Feedback (RLHF), Proximal Policy Optimization (PPO)
   - *Summary*：This article starts with an introduction to Large Language Models (LLMs) and their role in the advancement of artificial general intelligence. The authors then discuss relevant research related to reinforcement learning from human feedback (RLHF), a key methodology used in training these models. They delve into reward modeling, a component of RLHF that is critical for ensuring the models' helpfulness and harmlessness. The authors explore the Proximal Policy Optimization (PPO) algorithm, a reinforcement learning method frequently used in RLHF to optimize the models' outputs.
+</details>
+
