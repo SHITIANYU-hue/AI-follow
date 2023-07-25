@@ -40,9 +40,7 @@
   <summary><b><a href='https://arxiv.org/abs/2307.04738'>RoCo: Dialectic Multi-Robot Collaboration with Large Language Models</a></b></summary>
   
   - *Affiliation*： Columbia University
-    
   - *Keywords*： Multi-Robot Collaboration, Large Language Models (LLM)
-    
   - *Summary*： This paper introduces a novel method of multi-robot collaboration, leveraging pre-trained large language models (LLMs) for both communication and path planning. The robots, equipped with LLMs, are able to discuss task strategies, create sub-task plans, and form waypoint paths for motion planning. Feedback from the environment aids in the improvement of plans and waypoints. To test this approach, RoCoBench, a benchmark for multi-robot collaboration scenarios, and a text-only dataset for agent representation and reasoning are introduced. The approach has demonstrated high success rates across all tasks in RoCoBench, including real-world scenarios where humans and robots can collaborate. Further resources, such as videos and code, are provided on the project website.
 </details>
 
@@ -50,8 +48,6 @@
   <summary><b><a href='https://www.lerf.io/'>Language Embedded Radiance Fields</a></b></summary>
   
   - *Affiliation*： UC Berkeley
-    
   - *Keywords*： 3D Language Field, CLIP Embeddings
-    
   - *Summary*： This paper presents an optimized, dense, multi-scale 3D language field, known as LERF. This model utilizes volume rendering of CLIP embeddings supervised with multi-scale CLIP features across multi-view training images. The optimized LERF is capable of real-time extraction of 3D relevancy maps for language queries. It allows pixel-aligned queries of the distilled 3D CLIP embeddings, thus supporting long-tail open-vocabulary queries hierarchically across the volume, without the need for region proposals, masks, or fine-tuning.
 </details>
