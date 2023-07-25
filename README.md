@@ -14,22 +14,31 @@
 
 <details>
   <summary><b><a href="https://arxiv.org/pdf/2307.04964.pdf">Secrets of RLHF in Large Language Models Part I: PPO</a></b></summary>
-   - *Affiliation*： Fudan
+  
+  - *Affiliation*： Fudan
+  
   - *Keywords*： Reinforcement Learning from Human Feedback (RLHF), Proximal Policy Optimization (PPO)
+    
   - *Summary*： This article starts with an introduction to Large Language Models (LLMs) and their role in the advancement of artificial general intelligence. The authors then discuss relevant research related to reinforcement learning from human feedback (RLHF), a key methodology used in training these models. They delve into reward modeling, a component of RLHF that is critical for ensuring the models' helpfulness and harmlessness. The authors explore the Proximal Policy Optimization (PPO) algorithm, a reinforcement learning method frequently used in RLHF to optimize the models' outputs.
 </details>
 
 <details>
   <summary><b><a href='https://github.com/baaivision/Emu'>Emu: An Open Multimodal Generalist</a></b></summary>
+  
   - *Affiliation*： BAAI
+    
   - *Keywords*：  Multimodal Generalist, Autoregressive Objective
+    
   - *Summary*：This article introduces Emu, a sophisticated tool capable of generating both images and text in a multimodal context, using a unified autoregressive objective. Emu is versatile and serves as a general interface for tasks including image captioning, image/video question answering, text-to-image generation, and new abilities such as in-context text and image generation, and image blending.
 </details>
 
 <details>
   <summary><b><a href='https://arxiv.org/abs/2307.04767'>Semantic-SAM: Segment and Recognize Anything at Any Granularity</a></b></summary>
+  
   - *Affiliation*： HKUST
+    
   - *Keywords*： Semantic-Awareness, Granularity-Abundance
+    
   - *Summary*： This is a paper introducing Semantic-SAM, an advanced image segmentation model with semantic-awareness and multi-granularity capabilities. Semantic-SAM combines multiple datasets across three granularities and applies a decoupled classification process for objects and parts, allowing it to capture comprehensive semantic information. Furthermore, a multi-choice learning scheme during training allows for mask generation at multiple levels. The paper showcases the effectiveness of Semantic-SAM through various experiments and visualizations, and the authors plan to provide the code and a demo for further research and evaluation.
 </details>
 
